@@ -10,7 +10,7 @@
   O clone do site HBO Max serve como desafio para os alunos da plataforma testarem seus conhecimentos e colocarem em prática os recursos de HTML e CSS abordados nos cursos.
 </p>
 
-<a href="https://micheleambrosio.github.io/hbomax/">
+<a href="https://dev-joaosouza.github.io/trilha-css-desafio-5/">
   <img src="assets/images/readme-images/cover-2.png">
 </a>
 
@@ -57,4 +57,4 @@ As fontes utilizadas no projeto foram:
   
 <h2 id="demo">Demonstração</h2>
 
-Você pode acessar ao resultado final do projeto [clicando aqui](https://micheleambrosio.github.io/hbomax/).
+Você pode acessar ao resultado final do projeto [clicando aqui](https://dev-joaosouza.github.io/trilha-css-desafio-5/).
